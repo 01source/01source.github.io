@@ -13,6 +13,14 @@ h2 {
   font-weight: 100;
 }
 
+a {
+  color:white;
+}
+
+a:hover {
+  color:white;
+}
+
 .container-fluid {
   padding-right: 0;
   padding-left: 0;
@@ -120,13 +128,8 @@ h2 {
 
 
 hr {
-   display: block;
-   margin: 8px auto;
-   height: 0;
-   width: 100%;
-   max-height: 0;
-   line-height: 2em;
-   color:#FCBB08;
+  display: block;
+  margin: 1em 0;
+  width: 3em;
   border-color: #FCBB08;
-
 }
